@@ -1,0 +1,12 @@
+{
+  "name": "vue-cmd",
+  "version": "0.0.3",
+  "description": "A Vue plugin that looks like Spotlight, Alfred, or Slack.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Leo Deng",
+  "license": "MIT"
+}
