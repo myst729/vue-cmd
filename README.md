@@ -64,3 +64,7 @@ new Vue({
   }
 </script>
 ```
+
+## Demo
+
+https://myst729.github.io/vue-cmd/
